@@ -1,0 +1,13 @@
+{
+    "allowCompoundWords" : true,
+    "dictionaries" : [
+        "pl_pl",
+        "python",
+        "softwareTerms",
+        "latex"
+    ],
+    "ignorePaths" : [],
+    "language": "pl, en",
+    "words": []
+
+}
